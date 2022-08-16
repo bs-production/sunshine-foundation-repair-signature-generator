@@ -5,7 +5,7 @@
       <div class="hero-body">
         <div class="container">
           <div class="th-logo has-text-centered">
-            <img src="https://cdn.treehouseinternetgroup.com/cms_images/48/LJHealthyBS-Logo-Services-RGB.png" alt="" style="width:250px">
+            <img src="https://cdn.treehouseinternetgroup.com/cms_images/3351/sunshine-foundation_repair_logo.svg" alt="" style="width:250px">
           </div>
         <h1 class="sub-text title has-text-centered">
             <p>Signature Generator</p> 
@@ -62,7 +62,7 @@
 
           <div class="gif-box level-item has-text-centered">
             <ul>
-              <li>1. Place cursor at the top-left corner of Healthy Basement Systems logo and click & drag to bottom-right corner of the disclaimer</li>
+              <li>1. Place cursor at the top-left corner of Sunshine Foundation Repair logo and click & drag to bottom-right corner of the disclaimer</li>
               <li>2. Paste into Outlook signatures in preferences panel</li>
               <li>3. Adjust logo size if needed</li>
             </ul>
@@ -76,7 +76,7 @@
         <div class="container">
             <div class="content has-text-centered">
                 <p>
-                    &copy;2022 Healthy Basement Systems
+                    &copy;2022 Sunshine Foundation Repair
                 </p>
             </div>
         </div>
@@ -160,7 +160,7 @@ li {
   margin-left: 1px;
   background-color: #efefef;
   padding: 20px;
-  border-top: 1px dashed #013d63;
+  border-top: 1px dashed #1F4397;
 }
 .gif-box ul {
     text-align:left;
@@ -209,7 +209,7 @@ input:disabled {
   margin-top: 10px;
 }
 .button.is-success, .button.is-success[disabled] {
-  background-color: #013d63;
+  background-color: #1F4397;
   border-color: transparent;
   color: #fff;
 }
